@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-10T12:04:55.967398+00:00",
+  "rate_cards": [
+    {
+      "ratecard_id": 1,
+      "name": "RC_6_6",
+      "currency": "USD",
+      "country": "US",
+      "in_rate_per_min": 0.02,
+      "in_rate_per_sec": 0.0003333333333333333,
+      "in_initial_increment_sec": 6,
+      "in_increment_sec": 6,
+      "ob_rate_per_min": 0.05,
+      "ob_rate_per_sec": 0.0008333333333333333,
+      "ob_initial_increment_sec": 6,
+      "ob_increment_sec": 6,
+      "created_at": "2026-03-10T11:20:07.3954+00:00",
+      "updated_at": "2026-03-10T11:20:07.3954+00:00"
+    },
+    {
+      "ratecard_id": 2,
+      "name": "RC_30_6",
+      "currency": "USD",
+      "country": "US",
+      "in_rate_per_min": 0.02,
+      "in_rate_per_sec": 0.0003333333333333333,
+      "in_initial_increment_sec": 30,
+      "in_increment_sec": 6,
+      "ob_rate_per_min": 0.05,
+      "ob_rate_per_sec": 0.0008333333333333333,
+      "ob_initial_increment_sec": 30,
+      "ob_increment_sec": 6,
+      "created_at": "2026-03-10T11:20:07.3954+00:00",
+      "updated_at": "2026-03-10T11:20:07.3954+00:00"
+    },
+    {
+      "ratecard_id": 3,
+      "name": "RC_60_60",
+      "currency": "USD",
+      "country": "US",
+      "in_rate_per_min": 0.02,
+      "in_rate_per_sec": 0.0003333333333333333,
+      "in_initial_increment_sec": 60,
+      "in_increment_sec": 60,
+      "ob_rate_per_min": 0.05,
+      "ob_rate_per_sec": 0.0008333333333333333,
+      "ob_initial_increment_sec": 60,
+      "ob_increment_sec": 60,
+      "created_at": "2026-03-10T11:20:07.3954+00:00",
+      "updated_at": "2026-03-10T11:20:07.3954+00:00"
+    }
+  ],
+  "total": 3
+}

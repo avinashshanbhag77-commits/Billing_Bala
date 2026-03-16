@@ -1,0 +1,66 @@
+2026-03-09 18:51:09 - __main__ - INFO - main.py:15 - === Billing System Starting ===
+2026-03-09 18:51:09 - src.services.cdr_processor - INFO - cdr_processor.py:357 - ============================================================
+2026-03-09 18:51:09 - src.services.cdr_processor - INFO - cdr_processor.py:358 - Starting CDR processor in continuous mode...
+2026-03-09 18:51:09 - src.services.cdr_processor - INFO - cdr_processor.py:359 - Batch size: 100, Interval: 60s
+2026-03-09 18:51:09 - src.services.cdr_processor - INFO - cdr_processor.py:360 - ============================================================
+2026-03-09 18:53:19 - src.services.cdr_processor - ERROR - cdr_processor.py:339 - Batch processing failed: connection timeout expired
+Traceback (most recent call last):
+  File "C:\billing\billing\src\services\cdr_processor.py", line 103, in process_batch
+    conn = psycopg.connect(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\avina\AppData\Local\Programs\Python\Python311\Lib\site-packages\psycopg\connection.py", line 122, in connect
+    raise last_ex.with_traceback(None)
+psycopg.errors.ConnectionTimeout: connection timeout expired
+2026-03-09 18:53:19 - src.services.cdr_processor - INFO - cdr_processor.py:372 - Waiting 60s for new CDRs...
+2026-03-09 18:54:34 - src.services.cdr_processor - INFO - cdr_processor.py:376 - Shutting down CDR processor...
+2026-03-09 19:23:00 - __main__ - INFO - main.py:15 - === Billing System Starting ===
+2026-03-09 19:23:00 - src.services.cdr_processor - INFO - cdr_processor.py:357 - ============================================================
+2026-03-09 19:23:00 - src.services.cdr_processor - INFO - cdr_processor.py:358 - Starting CDR processor in continuous mode...
+2026-03-09 19:23:00 - src.services.cdr_processor - INFO - cdr_processor.py:359 - Batch size: 100, Interval: 60s
+2026-03-09 19:23:00 - src.services.cdr_processor - INFO - cdr_processor.py:360 - ============================================================
+2026-03-09 19:23:02 - src.services.cdr_processor - INFO - cdr_processor.py:113 - Fetching up to 100 unrated CDRs...
+2026-03-09 19:23:03 - src.services.cdr_processor - INFO - cdr_processor.py:137 - No unrated CDRs found
+2026-03-09 19:23:03 - src.services.cdr_processor - INFO - cdr_processor.py:372 - Waiting 60s for new CDRs...
+2026-03-09 19:24:05 - src.services.cdr_processor - INFO - cdr_processor.py:113 - Fetching up to 100 unrated CDRs...
+2026-03-09 19:24:05 - src.services.cdr_processor - INFO - cdr_processor.py:137 - No unrated CDRs found
+2026-03-09 19:24:05 - src.services.cdr_processor - INFO - cdr_processor.py:372 - Waiting 60s for new CDRs...
+2026-03-09 19:25:08 - src.services.cdr_processor - INFO - cdr_processor.py:113 - Fetching up to 100 unrated CDRs...
+2026-03-09 19:25:08 - src.services.cdr_processor - INFO - cdr_processor.py:137 - No unrated CDRs found
+2026-03-09 19:25:08 - src.services.cdr_processor - INFO - cdr_processor.py:372 - Waiting 60s for new CDRs...
+2026-03-09 19:25:50 - src.services.cdr_processor - INFO - cdr_processor.py:376 - Shutting down CDR processor...
+2026-03-09 19:38:33 - __main__ - INFO - main.py:15 - === Billing System Starting ===
+2026-03-09 19:38:33 - src.services.cdr_processor - INFO - cdr_processor.py:357 - ============================================================
+2026-03-09 19:38:33 - src.services.cdr_processor - INFO - cdr_processor.py:358 - Starting CDR processor in continuous mode...
+2026-03-09 19:38:33 - src.services.cdr_processor - INFO - cdr_processor.py:359 - Batch size: 100, Interval: 60s
+2026-03-09 19:38:33 - src.services.cdr_processor - INFO - cdr_processor.py:360 - ============================================================
+2026-03-09 19:40:43 - src.services.cdr_processor - ERROR - cdr_processor.py:339 - Batch processing failed: connection timeout expired
+Traceback (most recent call last):
+  File "C:\billing\billing\src\services\cdr_processor.py", line 103, in process_batch
+    conn = psycopg.connect(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\avina\AppData\Local\Programs\Python\Python311\Lib\site-packages\psycopg\connection.py", line 122, in connect
+    raise last_ex.with_traceback(None)
+psycopg.errors.ConnectionTimeout: connection timeout expired
+2026-03-09 19:40:43 - src.services.cdr_processor - INFO - cdr_processor.py:372 - Waiting 60s for new CDRs...
+2026-03-09 19:42:04 - src.services.cdr_processor - INFO - cdr_processor.py:376 - Shutting down CDR processor...
+2026-03-09 19:46:15 - __main__ - INFO - main.py:15 - === Billing System Starting ===
+2026-03-09 19:46:15 - src.services.cdr_processor - INFO - cdr_processor.py:357 - ============================================================
+2026-03-09 19:46:15 - src.services.cdr_processor - INFO - cdr_processor.py:358 - Starting CDR processor in continuous mode...
+2026-03-09 19:46:15 - src.services.cdr_processor - INFO - cdr_processor.py:359 - Batch size: 100, Interval: 60s
+2026-03-09 19:46:15 - src.services.cdr_processor - INFO - cdr_processor.py:360 - ============================================================
+2026-03-09 19:48:25 - src.services.cdr_processor - ERROR - cdr_processor.py:339 - Batch processing failed: connection timeout expired
+Traceback (most recent call last):
+  File "C:\billing\billing\src\services\cdr_processor.py", line 103, in process_batch
+    conn = psycopg.connect(
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\avina\AppData\Local\Programs\Python\Python311\Lib\site-packages\psycopg\connection.py", line 122, in connect
+    raise last_ex.with_traceback(None)
+psycopg.errors.ConnectionTimeout: connection timeout expired
+2026-03-09 19:48:25 - src.services.cdr_processor - INFO - cdr_processor.py:372 - Waiting 60s for new CDRs...
+2026-03-09 19:49:53 - src.services.cdr_processor - INFO - cdr_processor.py:376 - Shutting down CDR processor...
+2026-03-09 19:59:31 - __main__ - INFO - main.py:15 - === Billing System Starting ===
+2026-03-09 19:59:31 - src.services.cdr_processor - INFO - cdr_processor.py:376 - ============================================================
+2026-03-09 19:59:31 - src.services.cdr_processor - INFO - cdr_processor.py:377 - Starting CDR processor in continuous mode...
+2026-03-09 19:59:31 - src.services.cdr_processor - INFO - cdr_processor.py:378 - Batch size: 100, Interval: 60s
+2026-03-09 19:59:31 - src.services.cdr_processor - INFO - cdr_processor.py:379 - ============================================================
+2026-03-09 20:00:59 - src.services.cdr_processor - INFO - cdr_processor.py:395 - Shutting down CDR processor...

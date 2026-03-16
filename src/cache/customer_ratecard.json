@@ -1,0 +1,806 @@
+{
+  "timestamp": "2026-03-10T11:59:13.934604+00:00",
+  "customer_ratecard": [
+    {
+      "customer_id": "cust_1",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_2",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_3",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_4",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_5",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_6",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_7",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_8",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_9",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_10",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_11",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_12",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_13",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_14",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_15",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_16",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_17",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_18",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_19",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_20",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_21",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_22",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_23",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_24",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_25",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_26",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_27",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_28",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_29",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_30",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_31",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_32",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_33",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_34",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_35",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_36",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_37",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_38",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_39",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_40",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_41",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_42",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_43",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_44",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_45",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_46",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_47",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_48",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_49",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_50",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_51",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_52",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_53",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_54",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_55",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_56",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_57",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_58",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_59",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_60",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_61",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_62",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_63",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_64",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_65",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_66",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_67",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_68",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_69",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_70",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_71",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_72",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_73",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_74",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_75",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_76",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_77",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_78",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_79",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_80",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_81",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_82",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_83",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_84",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_85",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_86",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_87",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_88",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_89",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_90",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_91",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_92",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_93",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_94",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_95",
+      "ratecard_id": 2,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_96",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_97",
+      "ratecard_id": 3,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_98",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_99",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    },
+    {
+      "customer_id": "cust_100",
+      "ratecard_id": 1,
+      "effective_from": "2026-03-10T11:25:24.839385+00:00",
+      "effective_to": null,
+      "created_at": "2026-03-10T11:25:24.839385+00:00",
+      "updated_at": "2026-03-10T11:25:24.839385+00:00"
+    }
+  ],
+  "total": 100
+}
